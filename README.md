@@ -56,10 +56,3 @@ The program saves `catplot.png` and `heatmap.png` in the project folder.
 python -m unittest test_module.py
 ```
 
-## Notes for freeCodeCamp
-
-The analyzer uses `medical_examination.csv` from the freeCodeCamp boilerplate repository. If you are using the official freeCodeCamp starter code, keep its provided `test_module.py` and run those tests as well; the tests in this package are basic smoke tests.
-
-## Interpretation
-
-The charts describe associations in this dataset. They do not establish that any factor causes cardiovascular disease.
